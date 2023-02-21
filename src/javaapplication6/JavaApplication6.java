@@ -17,6 +17,7 @@ public class JavaApplication6 {
         
         
         System.out.println("poda oole");
+        System.out.println("sheri enna");
         
         // TODO code application logic here
         
